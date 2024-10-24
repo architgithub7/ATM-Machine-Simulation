@@ -1,16 +1,13 @@
 # ATM-Machine-Simulation
-### Problem Statement:
 
-*Project Title:* ATM Machine Simulation
 
-*Description:*
-
+### Problem Statement: 
 You are tasked with developing a simple simulation of an ATM (Automated Teller Machine) that provides essential banking services such as checking account balance, withdrawing money, and depositing money. The system must ensure secure access by requiring users to enter a valid PIN before accessing any services. If the entered PIN is incorrect, the system will prompt the user to re-enter the correct PIN until the correct one is provided.
 
 ### Features:
 
 1. *PIN Authentication:*
-   - The user must enter a correct 4-digit PIN (in this case, 6754) to access the ATM services.
+   - The user must enter a correct 4-digit PIN  to access the ATM services.
    - If an incorrect PIN is entered, the system displays an error message and prompts the user to re-enter the PIN until the correct PIN is provided.
 
 2. *Menu Options:*
@@ -39,7 +36,7 @@ You are tasked with developing a simple simulation of an ATM (Automated Teller M
 ### Requirements:
 
 1. *PIN Validation:*
-   - Ensure that only users who input the correct PIN (6754) can access the ATM services.
+   - Ensure that only users who input the correct PIN  can access the ATM services.
    
 2. *Balance Management:*
    - The system should maintain and update the user's balance after each deposit or withdrawal.
